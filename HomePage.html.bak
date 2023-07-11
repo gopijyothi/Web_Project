@@ -1,0 +1,18 @@
+<!DOCTTYPE html>
+<html>
+<head>
+<title>MovieBeatz</title>
+<link rel="stylesheet"href="../CSS/home.CSS">
+</head>
+<body>
+<header>
+<img id="logo"src="../Asset/logo/952.jpg">
+<img id="animeChar"src="../Asset/images/animechar.png">
+<div id="message">
+<h1 id="textMessage">Hi!!!</h1>
+</div>
+<div id="message2">
+</div>
+</header>
+</body>
+</html>
